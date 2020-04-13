@@ -15,3 +15,7 @@ To run :
 ```
 python main.py
 ```
+
+## Output
+
+<img src = "./img/example.PNG">
